@@ -2,16 +2,16 @@ function LatestGame() {
     return (
         <section className="section latest-game" aria-label="latest game">
             <div className="container">
-                <p className="section-subtitle">Latest Releases</p>
+                <p className="section-subtitle">Upcoming Tournaments</p>
                 <h2 className="h2 section-title">
-                    Create &amp; <span className="span">Manage</span>
+                    Coming <span className="span">Soon</span>
                 </h2>
                 <ul className="has-scrollbar">
                     <li className="scrollbar-item">
                         <div className="latest-game-card">
-                            <figure className="card-banner img-holder" style={{width:400, height: 470}}>
+                            <figure className="card-banner img-holder" style={{ width: 400, height: 470 }}>
                                 <img
-                                    src="./assets/images/latest-game-1.jpg"
+                                    src="./assets/images/pes.jpg"
                                     width={400}
                                     height={470}
                                     loading="lazy"
@@ -21,11 +21,11 @@ function LatestGame() {
                             </figure>
                             <div className="card-content">
                                 <a href="#" className="card-badge skewBg">
-                                    Zombie
+                                    Sports
                                 </a>
                                 <h3 className="h3">
                                     <a href="#" className="card-title">
-                                        White Walker <span className="span">Daily</span>
+                                        EFootball PES <span className="span">2023</span>
                                     </a>
                                 </h3>
                                 <p className="card-price">
@@ -36,9 +36,9 @@ function LatestGame() {
                     </li>
                     <li className="scrollbar-item">
                         <div className="latest-game-card">
-                            <figure className="card-banner img-holder" style={{width:400, height: 470}}>
+                            <figure className="card-banner img-holder" style={{ width: 400, height: 470 }}>
                                 <img
-                                    src="./assets/images/latest-game-2.jpg"
+                                    src="./assets/images/pubg.jpg"
                                     width={400}
                                     height={470}
                                     loading="lazy"
@@ -48,22 +48,22 @@ function LatestGame() {
                             </figure>
                             <div className="card-content">
                                 <a href="#" className="card-badge skewBg">
-                                    Adventure
+                                    Action
                                 </a>
                                 <h3 className="h3">
                                     <a href="#" className="card-title">
-                                        Hunter Killer <span className="span">II</span>
+                                        BATTLEGROUNDS MOBILE <span className="span">INDIA</span>
                                     </a>
                                 </h3>
                                 <p className="card-price">
-                                    Entry Fee : <span className="span">$25.00</span>
+                                    Entry Fee : <span className="span">Free</span>
                                 </p>
                             </div>
                         </div>
                     </li>
                     <li className="scrollbar-item">
                         <div className="latest-game-card">
-                            <figure className="card-banner img-holder" style={{width:400, height: 470}}>
+                            <figure className="card-banner img-holder" style={{ width: 400, height: 470 }}>
                                 <img
                                     src="./assets/images/latest-game-3.jpg"
                                     width={400}
@@ -75,7 +75,7 @@ function LatestGame() {
                             </figure>
                             <div className="card-content">
                                 <a href="#" className="card-badge skewBg">
-                                    Action
+                                    Strategy
                                 </a>
                                 <h3 className="h3">
                                     <a href="#" className="card-title">
@@ -83,7 +83,7 @@ function LatestGame() {
                                     </a>
                                 </h3>
                                 <p className="card-price">
-                                    Entry Fee : <span className="span">$25.00</span>
+                                    Entry Fee : <span className="span">Free</span>
                                 </p>
                             </div>
                         </div>

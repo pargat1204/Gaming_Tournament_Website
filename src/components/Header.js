@@ -38,7 +38,7 @@ function Header() {
                 <div className="header-bottom skewBg" data-header="">
                     <div className="container">
                         <a href="https://github.com" className="logo">
-                            Gamics
+                            P3S OFFICIAL
                         </a>
                         <nav className="navbar" data-navbar="">
                             <ul className="navbar-list">

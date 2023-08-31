@@ -3,7 +3,7 @@ function LiveMatches() {
         <section className="section live-match" id="live" aria-label="live match">
             <div className="container">
                 <h2 className="h2 section-title">
-                    Watch Live <span className="span">Match</span>
+                     Recent <span className="span">Match</span>
                 </h2>
                 <figure className="live-match-banner img-holder">
                     <img
